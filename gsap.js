@@ -1,8 +1,3 @@
-// const scroll = new LocomotiveScroll({
-//   el: document.querySelector(".main"),
-//   smooth: true,
-// });
-
 let tl = gsap.timeline();
 
 tl.from(".logo", {
